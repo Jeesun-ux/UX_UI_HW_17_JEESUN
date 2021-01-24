@@ -1,0 +1,107 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+}
+.bottomleftimg{
+    width:300px;
+    height:150px;
+}
+.container{
+    font-family: 'Maven Pro', sans-serif;
+    color:#a1a1a1;
+}
+.content{
+    min-height: 100%;
+}
+.column {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 8%;   
+  }
+.columnBackground{
+    background-color:#E5E5E5;
+}
+
+.copyText{
+    margin: 70px;
+    float: right;
+}
+.footer{
+    background-color:#7E96B9;
+    margin-top: -50px;
+    height:90px;
+}
+.icon{
+    display:inline-block;
+    float: right;
+    padding: 10px;
+}
+.linkIn{
+    height: 25px;
+}
+
+.instagram{
+    height: 25px;
+}
+.innerColumnImg{
+    margin-top: 10px;
+}
+.navLink{    
+    float: right;
+    Padding-right: 10px;
+    text-decoration: none;
+    color:black;
+    
+}
+.navLink:hover{
+    cursor: pointer;
+}
+
+.rightimg{
+    width:90px;
+    height:150px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 25px;
+    width: 80%;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sectionTitle{
+    width: 100%;
+}
+.statementContainer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
+.statement{
+    padding: 50px;
+    background-color:#E5E5E5;
+    text-align: center;
+}
+.top-nav{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.toprightimg{
+  width: 300px;
+  height: 150px;
+}
+
